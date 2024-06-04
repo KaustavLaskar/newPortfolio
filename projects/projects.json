@@ -1,0 +1,212 @@
+[
+  {
+    "name": "FinTab",
+    "desc": "Full-Stack Finance Dashboard App buit using React.JS, Material UI, Express.JS",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Residential Energy Evaluator",
+    "desc": "Energy Auditing System and Home Automation for net-Zero Solution",
+    "image": "flipkartmern",
+    "category": "eee",
+    "links": {
+      "view": "https://drive.google.com/file/d/1cc_RoaKATsUknOgtjR8qqiLXGOBTeOOc/view?usp=drive_link",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Solar Wind Tree",
+    "desc": "This is a Solar Tree for street small vendors and for the shop at the beach",
+    "image": "resumegen",
+    "category": "eee",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Robotic MicroGripper With Arm",
+    "desc": "Design and Development of microgrippers by the help of 3D Printing Technology which includes the integration of micro-actuators for micromanipulation tasks.",
+    "image": "phppblform",
+    "category": "eee",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Th2eRE9R1sF3_0WnbYe_uF87GEUiZy1F/view?usp=drive_link",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Audio Meter",
+    "desc": "The idea of this project was to build an Arduino-based embedded device for monitoring intensity of sound at different place.",
+    "image": "templeweb",
+    "category": "eee",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Mt9RA0IUTPYAIdFyQbKv-ajx-OnDMP67/view?usp=drive_link",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Humidity & Temperature Meter",
+    "desc": "The idea of this project was to build an Arduino-based embedded device for monitoring environmental variables: humidity and temperature.",
+    "image": "reactprojects",
+    "category": "eee",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Mtv8jiyK8B6rJav2eyUo42xcw43u-pJs/view?usp=drive_link",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Tic-Tac-Toe",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kaustavlaskar.github.io/Tic-Tac-Toe.github.io/",
+      "code": "https://github.com/KaustavLaskar/Tic-Tac-Toe.github.io"
+    }
+  },
+  {
+    "name": "Love Puzzle",
+    "desc": "Funny Puzzle for your Loved One.",
+    "image": "webuiclones",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kaustavlaskar.github.io/lovepuzzle.github.io/",
+      "code": "https://github.com/KaustavLaskar/lovepuzzle.github.io"
+    }
+  },
+  {
+    "name": "Impress Your Crush",
+    "desc": "Impress Your Cursh use this website.",
+    "image": "cryptotracker",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kaustavlaskar.github.io/impressCrush.github.io/",
+      "code": "https://github.com/KaustavLaskar/impressCrush.github.io"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Webview App Dummy Purpose",
+    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
+    "image": "webviewapp",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template Dummy Purpose",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Foodicious Dummy Purpose",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Website Dummy Purpose",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Chat APP",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "cafe8b7703daff253a0b1fb67e1cfa48",
+    "category": "mern",
+    "links": {
+      "view": "https://chat-app-ajlq.onrender.com",
+      "code": "https://github.com/KaustavLaskar/Chat-App"
+    }
+  },
+  {
+    "name": "Basic Banking App Dummy Purpose",
+    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "image": "basicbank",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Link List Dummy Purpose",
+    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
+    "image": "linklist",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Job Finder Dummy Dummy Purpose",
+    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
+    "image": "saas",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Old Websites Dummy Purpose",
+    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
+    "image": "oldsites",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "KIA Info Website Dummy Purpose",
+    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
+    "image": "kiaweb",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Dummy Purpose",
+    "desc": ".",
+    "image": "bootstraptemplate",
+    "category": "*",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
